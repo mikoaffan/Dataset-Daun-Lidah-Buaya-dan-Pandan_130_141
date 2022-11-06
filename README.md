@@ -1,2 +1,29 @@
-# Dataset-Daun-Lidah-Buaya-dan-Pandan_130_141
-Dataset Kecerdasan Buatan
+
+
+##                                  ===============       بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيْم          =====================
+
+# ('-----------------------------------------')
+# ('             Project Title               ')
+  ('     Collect Dataset Herbal Leaves       ')
+# ('-----------------------------------------')
+# ('---------------------------------------------------------------------------------------------------------')
+# ('                                         Description                                                     ')
+  ('    1.  Project ini dilakukan dengan tujuan memenuhi tugas mata kuliah Kecerdasan Buatan I.              ')
+  ('        Dalam project ini kami mngumpulkan dua label  daun yaitu, daun Pandan dan daun lidah buaya.      ')
+  ('    2.  Dari label yang kami kumpulkan menghasilkan 100 foto yang ada dalam folder Dataset.zip .         ')
+  ('        Tiap label terdiri atas 50 foto dengan dimensi yang telah ditentukan yaitu 1600 x 1200 pixel.    ')
+  ('        Pengambilan gambar kami lakukan dari berbagai sisi daun yang kami kumpulkan agar menghasilkan    ')
+  ('        gambar yang bervariasi.                                                                          ')
+  ('    3.  Proses pengambilan gambar kami lakukan disalah satu kos anggota kelompok.                        ')
+# ('---------------------------------------------------------------------------------------------------------')
+# ('---------------------------------------------------------------------------------------------------------------------------')
+# ('                                             Overview Dataset                                                              ')
+  ('  Overview dataset kami upload dalam bentuk jpg yang terdiri atas 50 gambar daun pandan dan 50 gambar daun lidah buaya.    ')
+# ('---------------------------------------------------------------------------------------------------------------------------')
+# ('-----------------------------------------------------------------------------------------------')
+# ('                                             Authors                                           ')
+  ('           Nama Anggota :                                                                      ')
+  ('                        1.	Muhammad Rafsanjani Aziz     202010370311141                       ')
+  ('                        2.	Miko Affan Faiza             202010370311130                       ')
+  ('                                                                                               ')
+# ('-----------------------------------------------------------------------------------------------')
